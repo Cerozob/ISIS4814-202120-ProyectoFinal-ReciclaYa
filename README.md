@@ -14,7 +14,7 @@ Aprende a reciclar de forma fácil y divertida.
 
 - Juan Camilo Useche - jc.useche10@uniandes.edu.co
 - Daniel Fernando Useche - df.useche@uniandes.edu.co
-- Joshua Olave Tobasia - jm.olave@uniandes.edu.co
+- Joshua Manolo Olave - jm.olave@uniandes.edu.co
 - Camilo Esteban Rozo - ce.rozob@uniandes.edu.co
 
 ### Hecho con
