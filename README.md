@@ -93,8 +93,8 @@ Aprende a reciclar de forma fácil y divertida.
 2. En Unity Editor
    - Seleccionar la pestaña "File"
    
-![image](https://user-images.githubusercontent.com/55302468/140439489-39c59035-22b3-4b00-825c-111e3149eec1.png)
-   
+![filetab](https://user-images.githubusercontent.com/55302468/145699744-691b659f-a344-400c-a7da-e2e562aabc4b.png)
+
    - En el menú desplegado seleccionar la opción "Build Settings"
 
 ![image](https://user-images.githubusercontent.com/55302468/140439396-1c324bab-fd54-49ed-b876-32dca92124e1.png)
