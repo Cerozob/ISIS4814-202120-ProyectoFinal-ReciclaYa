@@ -23,15 +23,16 @@ Aprende a reciclar de forma fácil y divertida.
 
 ### Descripción
 
-*Recicla ya* es un juego en el que el objetivo es aprender a clasificar residuos correctamente entre residuos aprovechables no orgánicos, aprovechables orgánicos, y residuos no aprovechables. Para lograrlo, se inicia con una fase de tutorial, en la que el usuario es guiado por ls mecánicas del juego y se le explican los residuos que pueden haber y dónde se deben depositar para ser reciclados. Después, se le introduce el sistema de puntaje y contaminación, donde el puntaje aumenta y la contaminación disminuye conforme el usuario va depositando los residuos en los lugares adecuados. Del mismo modo, se le explica que clasificar incorrectamente los residuos no reducir;a el puntaje actual pero sí aumentará la contaminación del ambiente. En dado caso que la contaminación sea demasiado alta, el juego terminará.
+*Recicla ya* es un juego en el que el objetivo es aprender a clasificar residuos correctamente entre residuos aprovechables no orgánicos, aprovechables orgánicos, y residuos no aprovechables. Para lograrlo, se inicia con una fase de tutorial, en la que el usuario es guiado por ls mecánicas del juego y se le explican los residuos que pueden haber y dónde se deben depositar para ser reciclados. Después, se le introduce el sistema de puntaje y contaminación, donde el puntaje aumenta y la contaminación disminuye conforme el usuario va depositando los residuos en los lugares adecuados. Del mismo modo, se le explica que clasificar incorrectamente los residuos no reducirá el puntaje actual pero sí aumentará la contaminación del ambiente. En dado caso que la contaminación sea demasiado alta, el juego terminará.
 
 ### Características
 
 - Fase de entrenamiento donde se explica la metodología del juego y cómo clasificar residuos.
 - Fase de juego que pone a prueba al usuario, cuya tarea es lanzar un residuo en la caneca correspondiente.
-- Sistema de puntaje visisble en forma de "puntos" por anotar residuiosn y en el umrbal de contaminación.
+- Sistema de puntaje visisble en forma de "puntos" por anotar residuos y en el umbral de contaminación.
 - Entrenamiento narrado por voz para evitar tener que leer las instrucciones.
 - Residuos y canecas realistas que se asemejan a los que se presentarían en un caso real.
+- dificultad agregada con canecas en movimiento.
 
 ## Instalación
 
@@ -78,13 +79,13 @@ Aprende a reciclar de forma fácil y divertida.
 
 ![addbutton](https://user-images.githubusercontent.com/55302468/140423385-49f3bdd6-ff41-4f34-ae32-5207006a6a4c.png)
 
-![selectfolder](https://user-images.githubusercontent.com/55302468/140423919-3f99d955-7cad-4b04-bb1b-2ecf53adbd3e.png)
+![selectfolderunity](https://user-images.githubusercontent.com/55302468/145699563-709f38bb-4ba6-4617-b947-e1fb14120186.png)
 
    - Seleccionar el proyecto agregado.
      - En este caso, el proyecto tiene el nombre de "VRTestProyect"
      - Asegurarse de que el proyecto tiene asignada la versión de Unity *2020.3.1f1*.
 
-![unityversioncheck](https://user-images.githubusercontent.com/55302468/140424414-5c2834d7-affb-4781-b154-6df8432c4301.png)
+![reassureversion](https://user-images.githubusercontent.com/55302468/145699692-3e5df21e-31af-4485-8650-ce406190e24c.png)
 
 #### Desplegar el proyecto desde Unity
 
