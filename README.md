@@ -1,12 +1,12 @@
 # ISIS 4814 - Proyecto final - ReciclaYa
 
-Aprende a preparar diferentes platos de cocina en un ambiente de realidad virtual.
+Aprende a reciclar de forma fácil y divertida.
 
-![entrenadorpromo1](https://user-images.githubusercontent.com/55302468/140456575-29e264b6-46fa-4afc-b6de-87e658583d25.png)
+![reciclaya](https://user-images.githubusercontent.com/55302468/145698368-c9f7e135-1959-454e-ace1-c88205e0b96e.png)
 
-*Imagen del tomate tomada de freepik.com*
+*Logo de reciclaje por Krdan, Dominio Público, via Wikimedia Commons*
 
-## Sobre el demo
+## Sobre el proyecto
 
 ---
 
@@ -14,24 +14,24 @@ Aprende a preparar diferentes platos de cocina en un ambiente de realidad virtua
 
 - Juan Camilo Useche - jc.useche10@uniandes.edu.co
 - Daniel Fernando Useche - df.useche@uniandes.edu.co
+- Joshua Olave Tobasia - jm.olave@uniandes.edu.co
 - Camilo Esteban Rozo - ce.rozob@uniandes.edu.co
 
 ### Hecho con
 
 - [Unity](https://unity.com/es)
-- [Twine](https://twinery.org/)
 
 ### Descripción
 
-El entrenador de cocina es una aplicación cuyo objetivo es ayudar a las personas a aprender a cocinar diferentes platos de comida. La experiencia plasma al usuario en una cocina virtual, con ingredientes y utensilios virtuales que el usuario puede ver y manipular con las manos para ir preparando el plato de acuerdo con la guía interactiva, que le muestra al usuario lo que debe hacer para continuar y le señala los utensilios e ingredientes de interés. Esta experiencia cuenta con 2 recetas diferentes, ambas llevando al usuario desde un conjunto de ingredientes sueltos hacia un plato de comida terminado. 
+*Recicla ya* es un juego en el que el objetivo es aprender a clasificar residuos correctamente entre residuos aprovechables no orgánicos, aprovechables orgánicos, y residuos no aprovechables. Para lograrlo, se inicia con una fase de tutorial, en la que el usuario es guiado por ls mecánicas del juego y se le explican los residuos que pueden haber y dónde se deben depositar para ser reciclados. Después, se le introduce el sistema de puntaje y contaminación, donde el puntaje aumenta y la contaminación disminuye conforme el usuario va depositando los residuos en los lugares adecuados. Del mismo modo, se le explica que clasificar incorrectamente los residuos no reducir;a el puntaje actual pero sí aumentará la contaminación del ambiente. En dado caso que la contaminación sea demasiado alta, el juego terminará.
 
 ### Características
 
-- Preparar una receta siguiendo una guía interactiva
-- Posibilidad de elegir entre 2 recetas diferentes
-- Recordatorios durante la experiencia
-- Ambiente de cocina realista.
-- Objetos de cocina acordes a la receta
+- Fase de entrenamiento donde se explica la metodología del juego y cómo clasificar residuos.
+- Fase de juego que pone a prueba al usuario, cuya tarea es lanzar un residuo en la caneca correspondiente.
+- Sistema de puntaje visisble en forma de "puntos" por anotar residuiosn y en el umrbal de contaminación.
+- Entrenamiento narrado por voz para evitar tener que leer las instrucciones.
+- Residuos y canecas realistas que se asemejan a los que se presentarían en un caso real.
 
 ## Instalación
 
@@ -50,17 +50,11 @@ El entrenador de cocina es una aplicación cuyo objetivo es ayudar a las persona
   - [Descargar para Windows](https://download.unity3d.com/download_unity/77a89f25062f/UnityDownloadAssistant-2020.3.1f1.exe)
   - [Descargar para MacOS](https://download.unity3d.com/download_unity/77a89f25062f/UnityDownloadAssistant-2020.3.1f1.dmg)
 
-- Twine
-
-  - [Twine](https://twinery.org/)
-
 - Cliente Git
 
   - [Descargar](https://git-scm.com/downloads)
   - [Descargar GitHub Desktop](https://desktop.github.com/)
   - [Descargar GitKraken](https://www.gitkraken.com/download)
-
-- Plugin Tweenity
 
 ### Instalación para desarrollo
 
@@ -69,15 +63,9 @@ El entrenador de cocina es una aplicación cuyo objetivo es ayudar a las persona
    - Clonar el repositorio de GitHub
 
    ```bash
-   git clone --recurse-submodules -j8 https://github.com/Cerozob/ISIS4814-Demo2
+   git clone https://github.com/Cerozob/ISIS4814-202120-ProyectoFinal-ReciclaYa.git
    ```
    
-   - Después de clonar el repositorio, clonar el submódulo que contiene los archivos del proyecto de Unity. 
-   ```bash
-   # En la raíz del repositorio clonado:
-   git submodule add https://github.com/Cerozob/VRTestProyectFiles
-   ```
-
 2. En Unity Hub:
 
    - Abrir Unity Hub
@@ -93,8 +81,8 @@ El entrenador de cocina es una aplicación cuyo objetivo es ayudar a las persona
 ![selectfolder](https://user-images.githubusercontent.com/55302468/140423919-3f99d955-7cad-4b04-bb1b-2ecf53adbd3e.png)
 
    - Seleccionar el proyecto agregado.
-     - En este caso, el proyecto tiene el nombre de "VRTestProyectFiles"
-     - Asegurarse de que el proyecto tiene asignada la versión de Unity 2020.3.1f1.
+     - En este caso, el proyecto tiene el nombre de "VRTestProyect"
+     - Asegurarse de que el proyecto tiene asignada la versión de Unity *2020.3.1f1*.
 
 ![unityversioncheck](https://user-images.githubusercontent.com/55302468/140424414-5c2834d7-affb-4781-b154-6df8432c4301.png)
 
@@ -130,7 +118,7 @@ El entrenador de cocina es una aplicación cuyo objetivo es ayudar a las persona
 
 - Cualquier HMD Oculus (Go, Quest, Quest 2) [_Probado en un Oculus Quest 2_]
 - Archivo APK
-  - [Descargar](https://github.com/Cerozob/ISIS4814-Demo2/releases/download/build/Demo2.apk)
+  - [Descargar](https://github.com/Cerozob/ISIS4814-202120-ProyectoFinal-ReciclaYa/releases/download/build/reciclaya.apk)
 
 ### Instalación para despliegue
 
@@ -144,5 +132,4 @@ El entrenador de cocina es una aplicación cuyo objetivo es ayudar a las persona
 
 ---
 
-- [Video de ejemplo 1](https://www.youtube.com/watch?v=5t6Dt9IoJLY)
-- [Video de ejemplo 2](https://www.youtube.com/watch?v=Pf4v7NrlwWE)
+- [Video de ejemplo 1](https://www.youtube.com/watch?v=hEyqFmwu4b4)
