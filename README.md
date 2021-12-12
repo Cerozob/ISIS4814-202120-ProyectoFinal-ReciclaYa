@@ -117,7 +117,7 @@ Aprende a reciclar de forma fácil y divertida.
 
 ### Pre-requisitos para despliegue
 
-- Cualquier HMD Oculus (Go, Quest, Quest 2) [_Probado en un Oculus Quest 2_]
+- Cualquier HMD, de preferencia Oculus (Go, Quest, Quest 2) [_Probado en un Oculus Quest 2_]
 - Archivo APK
   - [Descargar](https://github.com/Cerozob/ISIS4814-202120-ProyectoFinal-ReciclaYa/releases/download/v1.0/reciclaya.apk)
 
