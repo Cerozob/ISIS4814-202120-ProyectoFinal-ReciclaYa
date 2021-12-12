@@ -1,4 +1,4 @@
-# ISIS 4814202120 - Proyecto final - ReciclaYa
+# ISIS 4814 - Proyecto final - ReciclaYa
 
 Aprende a preparar diferentes platos de cocina en un ambiente de realidad virtual.
 
