@@ -134,3 +134,12 @@ Aprende a reciclar de forma fácil y divertida.
 ---
 
 - [Video de ejemplo 1](https://www.youtube.com/watch?v=hEyqFmwu4b4)
+
+## Pruebas
+
+Los estudios se realizaron a partir de los resultados de 2 encuestas, una que se realiza a los que usaron Recicla ya, y la otra que se realiza a los demás usuarios.
+
+- [Encuesta Recicla ya](https://docs.google.com/forms/d/e/1FAIpQLSc2Zwk8w1x2no6-o3DzOglN9v9j2_s-SNZyq_P2K2UAGwu0FQ/viewform)
+- [Cuestionario Reciclaje](https://docs.google.com/forms/d/e/1FAIpQLSdzN_D1KPYleVRUmViKy6SI0sgjS2cZXr0jmJqx7N1pkhSu1w/viewform)
+
+
